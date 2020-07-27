@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hospitalbooking">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".HelpActivity"></activity>
+        <activity android:name=".UserBookingActivity" />
+        <activity android:name=".Admin.AdminUserProductActivity" />
+        <activity android:name=".ConfirmFinalOrderActivity" />
+        <activity android:name=".SearchProductsActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".ProductDetailsActivity" />
+        <activity android:name=".CartActivity" />
+        <activity android:name=".Admin.AdminMaintainProducts" />
+        <activity android:name=".Admin.AdminAddNewProductActivity" />
+        <activity android:name=".Admin.AdminNewOrderActivity" />
+        <activity android:name=".ResetPasswordActivity" />
+        <activity android:name=".Admin.AdminCatagoryActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

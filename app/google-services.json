@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047208231703",
+    "firebase_url": "https://hospital-booking-d448d.firebaseio.com",
+    "project_id": "hospital-booking-d448d",
+    "storage_bucket": "hospital-booking-d448d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047208231703:android:2ba1e1ae2f784d113c2d52",
+        "android_client_info": {
+          "package_name": "com.example.hospitalbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047208231703-s3u9gce6a70e5d3fohb847onksk1lam3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp2nWG3k46LKwh6noQlE8E022ojdPZTzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047208231703-s3u9gce6a70e5d3fohb847onksk1lam3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

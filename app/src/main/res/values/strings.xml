@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hospital Booking</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_my_home">MyHomeActivity</string>
+    <string name="help">This app will allow you to book your hospital bed you have to click on hospital card then proceed further.\nfor final
+                        confirmation you required a verification code from your consulting doctor after that you will be able to book your bed.\nfor detailed information of the hospital you can contact to the hospitals by the helpline number once you book your bed
+                        you only able to book next bed after your current service is over Thank you..</string>
+</resources>
